@@ -17,7 +17,7 @@ cat << "INFO"
                                 |___/                             
 INFO
 $Blanco
-echo "                                    www.hackingyseguridad.com"
+echo "                                          www.hackingyseguridad.com"
 echo
 $Blanco
 if [ -z "$1" ]; then
