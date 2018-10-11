@@ -15,10 +15,9 @@ cat << "INFO"
   \__,_|\___||___/\___\__,_|_|  \__, |\__,_|_|    \/  \/ \___|_.__/  v 1.0
                                  __/ |                              
                                 |___/                             
-
 INFO
 $Blanco
-echo "   www.hackingyseguridad.com"
+echo "                                    www.hackingyseguridad.com"
 echo
 $Blanco
 if [ -z "$1" ]; then
