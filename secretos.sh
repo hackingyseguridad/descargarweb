@@ -1,4 +1,4 @@
-
+# busca en el codigo secretos: credenciales, tokens, claves
 
 grep  -Hrn "user" 
 grep  -Hrn "http*" 
