@@ -27,4 +27,4 @@ if [ -z "$1" ]; then
 fi
 
 echo
-wget --limit-rate=100k --no-clobber --convert-links --random-wait -r -p -E -e robots=off -U mozilla $1
+wget --limit-rate=100k --no-clobber --convert-links --random-wait -r -p -E -e robots=off -U mozilla $1  --no-check-certificate
